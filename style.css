@@ -67,4 +67,11 @@ body{
   .btn2:hover::before{
     transform: scaleY(1);
   }
+  .img-fluid{
+    border: 2px solid rgb(0, 110, 255);
+  }
 
+  p
+  {
+    border:2px solid black
+  }
