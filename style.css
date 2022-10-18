@@ -13,6 +13,14 @@ footer{
     background-color: grey;
     bottom: 0;
 }
+footer li{
+  list-style-type: none;
+}
+
+footer li img{
+  width: 20px;
+  margin-right: 20px;
+}
 .container{
     size: 200px;
 }
@@ -135,6 +143,9 @@ p
   .col-md-8
   {
     margin-right: 50px;
+  }
+  .col-md-3{
+    margin-left: 0px;
   }
   
 
