@@ -1,8 +1,6 @@
 # DIY Barkácsáruház
 
-## Készítette: Baranyi András, 
-
-## Készítette: Baranyi András, Gyulai Bence
+## Készítette: Baranyi András, Gyulai Bence, Varga Márk Tamás
 
 ## Képek forrásai:
 - 
